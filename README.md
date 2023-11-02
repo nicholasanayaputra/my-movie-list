@@ -1,8 +1,12 @@
-# React + Vite
+What is Uprising?
+1. React Js
+2. Vanilla Css
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Instalation
+1. Clone or Download -> Download ZIP
+2. Extract Zip
+3. Change the API with yours
+4. Change some of the views according to your wishes
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Follow My Social Media
+Instragram : https://www.instagram.com/nicholasany_/ Thanks ❤
